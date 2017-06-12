@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "Retro FM",
+    "url": "http://192.99.18.164:9986/"
+  },
+  {
+    "id": 1,
+    "title": "Raadio KUKU",
+    "url": "http://217.146.71.24:80/kuku.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Sky Plus",
+    "url": "http://194.106.119.241:8500/skyplus_hi.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Hit FM",
+    "url": "http://stream.hitfm.ee:80/HitFM_96"
+  },
+  {
+    "id": 4,
+    "title": "Tre Raadio",
+    "url": "http://sc1.treraadio.ee:8002"
+  },
+  {
+    "id": 5,
+    "title": "Myhits",
+    "url": "http://striiming.trio.ee:8008/myhits.ogg"
+  }
+]
